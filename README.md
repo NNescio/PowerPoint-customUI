@@ -28,12 +28,12 @@ Browse to the location where you saved the custom ribbon XML file.
 Select the file and click "Open".
 PowerPoint will ask if you want to replace your current customizations. Click "Yes".
 Click "OK" to close the Options window.
-Restart PowerPoint to see the new "TS_IN" tab in your ribbon.
+Restart PowerPoint to see the new "TS_XX" tab in your ribbon.
 
-Note: If you don't see the new tab after restarting, check the right side of the Customize Ribbon section in PowerPoint Options to ensure the "TS_IN" tab is checked.
+Note: If you don't see the new tab after restarting, check the right side of the Customize Ribbon section in PowerPoint Options to ensure the "TS_XX" tab is checked.
 
 ## Usage
-The new "TS_IN" tab is divided into four main groups:
+The new "TS_XX" tab is divided into four main groups:
 
 1. Font and Paragraph: Quick access to text formatting and alignment tools.
 2. Table: Easy table insertion and formatting options.
